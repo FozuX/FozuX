@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FozuX&show_icons=true&locale=en&layout=compact" alt="FozuX" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FozuX&show_icons=true&locale=en" alt="FozuX" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FozuX&show_icons=true&locale=en" alt="FozuX" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FozuX&" alt="FozuX" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FozuX&" alt="FozuX" /></p>
