@@ -2,31 +2,80 @@
 <h3 align="center">I am a boy.</h3>
 
 
-- 🔭 I’m currently working on **All in one discord bot**
+----
+<p align="center">
+   <a href="https://github.com/Bad-Boy-Codes/">
+   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes&style=flat-square&color=de1032">
+   <a />
+   <a href="https://dsc.gg/badboy">
+   <img title="Discord Server" src="https://img.shields.io/discord/905670250249474089?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032">
+   <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
+   <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032">
+   <a />
+   <br>
+   <a href="https://discord.com/users/424510834660737025">
+   <img title="TomoNB" src="https://discord.c99.nl/widget/theme-1/424510834660737025.png">
+   <a />
+</p>
+<h4 align="center"> Hey I'm Bad Boy, Glad to see you here! I'm a student develper from India.<h4/>
+<details>
+<summary>About Me</summary><br>
+★ Currently working on discord bots and rest api<br></br>
+★ Otaku Weeb (Currently watching My Hero Academia)<br></br>
+★ Websites: <a href="https://badboy.is-a.dev">Main Website</a>, <a href="https://semant.is-a.dev">Secondary Website</a>
+</details>
+<p>
+   My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
+   <img alt="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
+   <a /><a href="https://dsc.gg/badboy" target="_blank">
+   <img title="Chizuru" width="17px" src="https://static.wikia.nocookie.net/kanojo-okarishimasu/images/b/b1/Chizuru_Profile_Pic_%28Anime%29.png/revision/latest?cb=20210131180844"><img title="Chizuru" width="70px"src="https://img.shields.io/badge/-Chizuru-e63ccc?style=flat&logo=codeIgniter&logoColor=white"/>  
+   <a /><a href="https://discord.gg/UTQRXgUAAX" target="_blank">
+   <img title="Sevu" width="24px" src="https://i.imgur.com/dkFSAZZ.png"><img title="Sevu" width="56px"src="https://img.shields.io/badge/-Sevu-bc57ff?style=flat&logo=codeIgniter&logoColor=white"/>  
+   <a /><a href="https://badboy.is-a.dev/api" target="_blank">
+   <img title="Api" width="54px" src="https://i.imgur.com/ODYGrmU.png"><img title="Api" width="56px"src="https://img.shields.io/badge/-Api-4599ff?style=flat&logo=maserati&logoColor=white"/>  
+   <a />
 
-- 🌱 I’m currently learning **Python**
+----
+</p>
+<p align="center">
+Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img title="Youtube" src="https://img.shields.io/badge/-Youtube-d60412?style=for-the-badge&logo=youtubegaming&logoColor=white"/></a>
+<a href="https://instagram.com/_itz.bad.boy_"><img title="Instagram" src="https://img.shields.io/badge/-Instagram-d9025f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:contact@mail.badboy.is-a.dev"><img title="Email" src="https://img.shields.io/badge/-Email-a317c2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
+<a href="https://dsc.gg/badboy"><img title="Discord" src="https://img.shields.io/badge/-Discord-5502c2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<br><br><a href="https://www.buymeacoffee.com/bad.boy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 36px !important;height: 36px !important;" ></a> <a href='https://ko-fi.com/semant' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy me a coffee at ko-fi.com' /></a>
 
-- 🔭 I am also working on **Lavalink Music bot For Discord**
+----
+<h4 align="center">
+Tools/Apps with which I use most </><br>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
-- 📝 I regularly write articles on [shirotips.blogspot.com](https://shirotips.blogspot.com/)
+----
+<a href="https://open.spotify.com/user/316xfhtouhtysqxs7sncspxxhwwu" target="_blank"> Spotify</a>
+<br></br>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
+</a>
 
-- 📫 How to reach me **[Msg me](https://discord.gg/eF49v3AVJS)**
+----
+<div align="center">
+<a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
+<br></br>
+<a href="https://dsc.gg/badboy">
+<img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
+</div>
 
-- 📄 Know about my: [instagram.com/xyz.imas](https://www.instagram.com/xyz.imas/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/TomoNBz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rlxop99" height="30" width="40" /></a>
-<a href="https://www.instagram.com/xyz.imas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rlxop99" height="30" width="40" /></a>
-<a href="https://shirotips.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="rlxop99" height="30" width="40" /></a>
-<a href="https://discord.gg/eF49v3AVJS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/rlx" height="30" width="40" /></a>
+----
+<div align="center">
+   <h4 align="center"> GitHub Stats </h4>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Boy-Codes&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=18161a" /><br>
+   <img src="https://github-readme-stats.vercel.app/api?username=Bad-Boy-Codes&show_icons=true&theme=monokai&hide_border=true&bg_color=18161a" /><br></br>
+</div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FozuX&show_icons=true&locale=en&layout=compact" alt="FozuX" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FozuX&show_icons=true&locale=en" alt="FozuX" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FozuX&" alt="FozuX" /></p>
+----
+Have a great day/night.
