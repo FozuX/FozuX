@@ -22,24 +22,18 @@
 <summary>About Me</summary><br>
 ★ Currently working on discord bots and rest api<br></br>
 ★ Otaku Weeb (Currently watching My Hero Academia)<br></br>
-★ Websites: <a href="https://badboy.is-a.dev">Main Website</a>, <a href="https://semant.is-a.dev">Secondary Website</a>
+★ Websites: <a href="">Main Comming soon!</a>
 </details>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
-   <img alt="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
+   <img alt="JinhooHans" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-JinhooHans-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
    <a /><a href="https://discord.gg/mAckTZXuey" target="_blank">
-   <img title="Chizuru" width="17px" src="https://static.wikia.nocookie.net/kanojo-okarishimasu/images/b/b1/Chizuru_Profile_Pic_%28Anime%29.png/revision/latest?cb=20210131180844"><img title="Chizuru" width="70px"src="https://img.shields.io/badge/-Chizuru-e63ccc?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://discord.gg/UTQRXgUAAX" target="_blank">
-   <img title="Sevu" width="24px" src="https://i.imgur.com/dkFSAZZ.png"><img title="Sevu" width="56px"src="https://img.shields.io/badge/-Sevu-bc57ff?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://badboy.is-a.dev/api" target="_blank">
-   <img title="Api" width="54px" src="https://i.imgur.com/ODYGrmU.png"><img title="Api" width="56px"src="https://img.shields.io/badge/-Api-4599ff?style=flat&logo=maserati&logoColor=white"/>  
-   <a />
 
 ----
 </p>
 <p align="center">
 Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img title="Youtube" src="https://img.shields.io/badge/-Youtube-d60412?style=for-the-badge&logo=youtubegaming&logoColor=white"/></a>
-<a href="https://instagram.com/_itz.bad.boy_"><img title="Instagram" src="https://img.shields.io/badge/-Instagram-d9025f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/xyz.imas"><img title="Instagram" src="https://img.shields.io/badge/-Instagram-d9025f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:contact@mail.badboy.is-a.dev"><img title="Email" src="https://img.shields.io/badge/-Email-a317c2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
 <a href="https://discord.gg/mAckTZXuey"><img title="Discord" src="https://img.shields.io/badge/-Discord-5502c2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br><br><a href="https://www.buymeacoffee.com/TomoNB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 36px !important;height: 36px !important;" ></a> <a href='https://ko-fi.com/tomonb' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy me a coffee at ko-fi.com' /></a>
