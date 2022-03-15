@@ -21,8 +21,8 @@
 <details>
 <summary>About Me</summary><br>
 ★ Currently working on discord bots and rest api<br></br>
-★ Otaku Weeb (Currently watching My Hero Academia)<br></br>
-★ Websites: <a href="">Main Comming soon!</a>
+★ Otaku Weeb (Star platinum: Za Warudo)<br></br>
+★ Websites:  Comming soon!
 </details>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
