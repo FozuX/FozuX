@@ -12,7 +12,7 @@
    <a />
    <br>
    <a href="https://discord.com/users/424510834660737025">
-   <img title="TomoNB" src="https://discord.c99.nl/widget/theme-1/424510834660737025.png">
+   <img title="TomoNB" src="https://discord.c99.nl/widget/theme-3/424510834660737025.png">
    <a />
 </p>
 <h4 align="center"> Hey I'm FozuX aka TomoNB, Glad to see you here! I'm a student and junior progamer from indonesia 🇮🇩.<h4/>
