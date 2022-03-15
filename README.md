@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FozuX</h1>
+<h1 align="center">Hi 👋, I'm FozuX aka TomoNB</h1>
 <h3 align="center">I am a boy.</h3>
 
 
