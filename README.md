@@ -7,7 +7,7 @@
    <a href="https://github.com/Bad-Boy-Codes/">
    <img title="Profile Views" src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes&style=flat-square&color=de1032">
    <a />
-   <a href="https://dsc.gg/badboy">
+   <a href="https://discord.gg/mAckTZXuey">
    <img title="Discord Server" src="https://img.shields.io/discord/905670250249474089?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032">
    <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
    <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032">
@@ -27,7 +27,7 @@
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
    <img alt="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://dsc.gg/badboy" target="_blank">
+   <a /><a href="https://discord.gg/mAckTZXuey" target="_blank">
    <img title="Chizuru" width="17px" src="https://static.wikia.nocookie.net/kanojo-okarishimasu/images/b/b1/Chizuru_Profile_Pic_%28Anime%29.png/revision/latest?cb=20210131180844"><img title="Chizuru" width="70px"src="https://img.shields.io/badge/-Chizuru-e63ccc?style=flat&logo=codeIgniter&logoColor=white"/>  
    <a /><a href="https://discord.gg/UTQRXgUAAX" target="_blank">
    <img title="Sevu" width="24px" src="https://i.imgur.com/dkFSAZZ.png"><img title="Sevu" width="56px"src="https://img.shields.io/badge/-Sevu-bc57ff?style=flat&logo=codeIgniter&logoColor=white"/>  
@@ -41,7 +41,7 @@
 Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img title="Youtube" src="https://img.shields.io/badge/-Youtube-d60412?style=for-the-badge&logo=youtubegaming&logoColor=white"/></a>
 <a href="https://instagram.com/_itz.bad.boy_"><img title="Instagram" src="https://img.shields.io/badge/-Instagram-d9025f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:contact@mail.badboy.is-a.dev"><img title="Email" src="https://img.shields.io/badge/-Email-a317c2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
-<a href="https://dsc.gg/badboy"><img title="Discord" src="https://img.shields.io/badge/-Discord-5502c2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/mAckTZXuey"><img title="Discord" src="https://img.shields.io/badge/-Discord-5502c2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br><br><a href="https://www.buymeacoffee.com/bad.boy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 36px !important;height: 36px !important;" ></a> <a href='https://ko-fi.com/semant' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy me a coffee at ko-fi.com' /></a>
 
 ----
@@ -56,16 +56,16 @@ Tools/Apps with which I use most </><br>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ----
-<a href="https://open.spotify.com/user/316xfhtouhtysqxs7sncspxxhwwu" target="_blank"> Spotify</a>
+<a href="https://open.spotify.com/user/317wavs2s2itadnsd37urlmzajfe" target="_blank"> Spotify</a>
 <br></br>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
 </a>
 
 ----
 <div align="center">
-<a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
+<a href="https://discord.gg/mAckTZXuey" target="_blank"> Discord Server</a>
 <br></br>
-<a href="https://dsc.gg/badboy">
+<a href="https://discord.gg/mAckTZXuey">
 <img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
 </div>
 
