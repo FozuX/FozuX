@@ -50,7 +50,8 @@ Tools/Apps with which I use most </><br>
 ----
 <a href="https://open.spotify.com/user/317wavs2s2itadnsd37urlmzajfe" target="_blank"> Spotify</a>
 <br></br>
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<a href="https://spotify-widget.vercel.app/api/now/317wavs2s2itadnsd37urlmzajfe"><img src = "https://spotify-widget.vercel.app/current/317wavs2s2itadnsd37urlmzajfe"/>
+</a>
 
 ----
 <div align="center">
