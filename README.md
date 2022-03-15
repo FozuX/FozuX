@@ -4,13 +4,12 @@
 
 ----
 <p align="center">
-   <a href="https://github.com/Bad-Boy-Codes/">
-   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes&style=flat-square&color=de1032">
+   <a href="https://github.com/FozuX/">
+   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=FozuX&style=flat-square&color=de1032">
    <a />
    <a href="https://discord.gg/mAckTZXuey">
    <img title="Discord Server" src="https://img.shields.io/discord/905670250249474089?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032">
    <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
-   <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032">
    <a />
    <br>
    <a href="https://discord.com/users/424510834660737025">
