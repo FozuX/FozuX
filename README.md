@@ -50,8 +50,7 @@ Tools/Apps with which I use most </><br>
 ----
 <a href="https://open.spotify.com/user/317wavs2s2itadnsd37urlmzajfe" target="_blank"> Spotify</a>
 <br></br>
-<a href="https://spotify-widget.vercel.app/api/now/317wavs2s2itadnsd37urlmzajfe"><img src = "https://spotify-widget.vercel.app/current/317wavs2s2itadnsd37urlmzajfe"/>
-</a>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=317wavs2s2itadnsd37urlmzajfe&count=3)
 
 ----
 <div align="center">
