@@ -72,8 +72,8 @@ Tools/Apps with which I use most </><br>
 ----
 <div align="center">
    <h4 align="center"> GitHub Stats </h4>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Boy-Codes&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=18161a" /><br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Bad-Boy-Codes&show_icons=true&theme=monokai&hide_border=true&bg_color=18161a" /><br></br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FozuX&show_icons=true&layout=compact&hide_border=true&theme=monokai&bg_color=18161a" /><br>
+   <img src="https://github-readme-stats.vercel.app/api?username=FozuX&show_icons=true&theme=monokai&hide_border=true&bg_color=18161a" /><br></br>
 </div>
 </p>
 
