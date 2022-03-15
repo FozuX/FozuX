@@ -58,7 +58,7 @@ Tools/Apps with which I use most </><br>
 ----
 <a href="https://open.spotify.com/user/317wavs2s2itadnsd37urlmzajfe" target="_blank"> Spotify</a>
 <br></br>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=317wavs2s2itadnsd37urlmzajfe&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=317wavs2s2itadnsd37urlmzajfe&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
 </a>
 
 ----
@@ -66,7 +66,7 @@ Tools/Apps with which I use most </><br>
 <a href="https://discord.gg/mAckTZXuey" target="_blank"> Discord Server</a>
 <br></br>
 <a href="https://discord.gg/mAckTZXuey">
-<img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
+<img src="https://discordapp.com/api/guilds/905670250249474089/widget.png?style=banner2" alt="Discord Banner 2"/>
 </div>
 
 ----
