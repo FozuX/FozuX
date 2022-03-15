@@ -23,8 +23,8 @@
 ★ Websites:  Comming soon!
 </details>
 <p>
-   My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
-   <img alt="JinhooHans" width="24px" src="https://img.shields.io/badge/-JinhooHans-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
+   My projects: <a href="https://dsc.gg/yoobin" target="_blank">
+   <img alt="JinhooHans" width="100px" src="https://img.shields.io/badge/-JinhooHans-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
    <a /><a href="https://discord.gg/mAckTZXuey" target="_blank">
 
 ----
